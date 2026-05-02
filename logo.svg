@@ -1,0 +1,17 @@
+<svg width="100%" viewBox="0 0 680 400" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>Pickr AI Logo</title>
+
+  <rect x="240" y="60" width="200" height="200" rx="40" fill="#FF6B35"/>
+
+  <circle cx="340" cy="145" r="48" fill="white" opacity="0.95"/>
+  <circle cx="340" cy="145" r="32" fill="#FF6B35"/>
+  <circle cx="340" cy="145" r="14" fill="white"/>
+
+  <line x1="375" y1="180" x2="400" y2="208" stroke="white" stroke-width="12" stroke-linecap="round"/>
+
+  <circle cx="352" cy="122" r="7" fill="white" opacity="0.9"/>
+
+  <text x="340" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="38" font-weight="700" fill="#FF6B35" letter-spacing="2">PICKR</text>
+  <text x="340" y="330" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="400" fill="#888" letter-spacing="6">AI</text>
+
+</svg>
